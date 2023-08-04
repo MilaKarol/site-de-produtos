@@ -1,0 +1,72 @@
+nav#menu{
+    display: block;
+}
+nav#menu ul{
+    text-transform: uppercase;
+    list-style: none;
+    position: absolute;
+    text-align: center;
+    top: 20px;
+}
+nav#menu li{
+    display: inline-block;
+    padding: 15px;
+    border-radius: 0.7rem;
+    background-color: pink;
+}
+li:hover{
+    cursor: pointer;
+    transition: .3s;
+    transform: scale(1.2) translateY(-5px);
+    border-radius: 0.2rem;
+    border: none;
+    background-color: pink;
+    color: white;
+    -webkit-box-shadow: 0 3px 10px 0 rgb(0, 0, 0);
+    text-shadow: 0px 0px 20px black;
+}
+body{
+    background-color: rgb(255, 255, 255);
+}
+header{
+    background-color: rgb(233, 111, 147);
+    padding-top: 100px;
+    padding-bottom: 5px;
+    position: relative;
+    border-radius: 0.7rem;
+}
+img{
+    width: 60%;
+    margin-left: 50px;
+    
+}
+h1{
+    font-size: 60px;
+    text-align: center;
+}
+h2, h3, p, h1{
+    margin-left: 50px;
+}
+#colunas{
+    width: 800px;
+    height: 100px;
+    display: inline-block;
+}
+#colunass{
+    width: 800px;
+    height: 100px;
+    display: inline-block;
+}
+#colunasss{
+    width: 800px;
+    height: 100px;
+    display: inline-block;
+}
+hr{
+    border: 0;
+    height: 4px;
+    background-image: linear-gradient(to right, transparent, #CCC, transparent); 
+}
+p{
+    font-size: 25px;
+}
