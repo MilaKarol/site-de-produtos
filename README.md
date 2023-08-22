@@ -1,4 +1,4 @@
-# Projeto - Site de venda de produtos
+# <h1 align="center">Projeto - Site de venda de produtos</h1>
 Atividade desenvolvida na aula de Fundamentos e Desenvolvimento Web.
 O site de produtos tem como objetivo, aprender como desenvolver um site de sua preferência.
 Utilisamos linguagem de programação, css e Html.
