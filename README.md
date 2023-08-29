@@ -42,5 +42,3 @@ Site de Produtos criado durante as aulas de Fundamentos de desenvolvimento web. 
 
 * git status
 
-###
-
