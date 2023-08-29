@@ -44,16 +44,3 @@ Site de Produtos criado durante as aulas de Fundamentos de desenvolvimento web. 
 
 ###
 
-### 🎁 Hard e Soft Skills
-
-As minhas Hard e Soft Skills, identificadas durante a aula de Interioridades, são:
-
-* Educada
-
-* Comunicativa
-
-* Trabalho em equipe
-
-* Participativa
-
-* Proativa 
