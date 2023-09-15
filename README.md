@@ -21,7 +21,8 @@ Do lado esquerdo da tela, está os botões para te levar aos produtos, ou se voc
 Entrando em "Produtos" você podera visualizar os produtos do site, e escolher a roupa de sua preferência.
  ![](imagens/comando-produtos.png)
  >
-
+<br>
+Na descrição dos produtos, tem diversas foras de pagamento, numeração do produto,cor,material,quantidade,marca, etc.<br>
 ## 🔧 Tecnologias, ferramentas, e linguagens usadas
 
 * VSCODE
