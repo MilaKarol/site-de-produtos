@@ -26,27 +26,39 @@ Entrando em "Produtos" você podera visualizar os produtos do site, e escolher a
 Na descrição dos produtos, tem diversas foras de pagamento, numeração do produto,cor,material,quantidade,marca, etc.<br>
 <br>
 
-## 🔧 Tecnologias, ferramentas, e linguagens usadas
+## 🔧 Tecnologias e ferramentas
 
 * VSCODE
 
-* html
+* HTML5 - utilizando elmentos:
 
-* css
+```
+img 
+```
+```
+head
+```
 
-* img
+* CSS3
 
-* head
+* Github - foi necessário utilizar os seguintes comandos:
+```
+$ git clone
+```
+```
+$ git add .
+```
+```
+git commit -m ""
+```
+```
+git push
+```
+```
+git status
+```
+## Referências de consulta
+[Alura](https://www.alura.com.br/artigos/escrever-bom-readme) - Como escrever um README incrível no seu Github
 
-* GITHUB
-
-* git clone
-
-* git add .
-
-* git commit -m ""
-
-* git push
-
-* git status
+[lohhans](https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89) - Um modelo para fazer um bom README
 
