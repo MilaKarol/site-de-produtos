@@ -19,6 +19,7 @@ Logo entrando no site, você ja ira ver a tela inicial, menu. <br>
 >
 Do lado esquerdo da tela, está os botões para te levar aos produtos, ou se você tiver alguma duvida, ele esta lhe ajudando a ultilizar o site corretamente. <br>
 Entrando em "Produtos" você podera visualizar os produtos do site, e escolher a roupa de sua preferência.
+! [] (imagens/comando-produtos.png)
 
 ## 🔧 Tecnologias, ferramentas, e linguagens usadas
 
