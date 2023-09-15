@@ -43,13 +43,13 @@ head
 
 * Github - foi necessário utilizar os seguintes comandos:
 ```
-$ git clone
+git clone
 ```
 ```
-$ git add .
+git add .
 ```
 ```
-git commit -m ""
+git commit -m "mensagem de alteração realizada"
 ```
 ```
 git push
