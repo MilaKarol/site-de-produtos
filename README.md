@@ -25,6 +25,7 @@ Entrando em "Produtos" você podera visualizar os produtos do site, e escolher a
 <br>
 Na descrição dos produtos, tem diversas foras de pagamento, numeração do produto,cor,material,quantidade,marca, etc.<br>
 <br>
+
 ## 🔧 Tecnologias, ferramentas, e linguagens usadas
 
 * VSCODE
